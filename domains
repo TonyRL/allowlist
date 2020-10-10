@@ -1,5 +1,5 @@
-# Domain Count : 215
-# Last updated : 2020-08-08
+# Domain Count : 216
+# Last updated : 2020-10-11
 
 # ==========
 # Credit GitHub: anudeepND/whitelist
@@ -42,6 +42,7 @@ clients3.google.com
 clients4.google.com
 clients5.google.com
 clients6.google.com
+config.usyncapp.com
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
 cse.google.com
