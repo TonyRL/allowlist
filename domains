@@ -1,5 +1,5 @@
-# Domain Count : 217
-# Last updated : 2021-05-12
+# Domain Count : 218
+# Last updated : 2021-08-30
 
 # ==========
 # Credit GitHub: anudeepND/whitelist
@@ -202,6 +202,7 @@ keyvalueservice.fe.apple-dns.net
 
 # Baidu
 gsp0.baidu.com
+top.baidu.com
 
 # Bootcss
 bootcss.com
