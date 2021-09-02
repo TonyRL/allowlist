@@ -1,5 +1,5 @@
-# Domain Count : 218
-# Last updated : 2021-08-30
+# Domain Count : 221
+# Last updated : 2021-09-01
 
 # ==========
 # Credit GitHub: anudeepND/whitelist
@@ -222,6 +222,11 @@ nexus.officeapps.live.com
 
 # NordVPN
 nordvpn.nanorep.co
+
+# Sentry
+sentry.io
+js.sentry-cdn.com
+s1.sentry-cdn.com
 
 # Tencent
 mp.weixin.qq.com
