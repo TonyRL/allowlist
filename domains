@@ -1,5 +1,5 @@
-# Domain Count : 221
-# Last updated : 2021-09-01
+# Domain Count : 222
+# Last updated : 2023-04-07
 
 # ==========
 # Credit GitHub: anudeepND/whitelist
@@ -215,6 +215,9 @@ thepiratebay.org
 tracker.cyber-hub.net
 tracker.pomf.se
 tracker.trackerfix.com
+
+# Clearbit
+logo.clearbit.com
 
 # Microsoft
 mobile.pipe.aria.microsoft.com
