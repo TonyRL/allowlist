@@ -43,6 +43,10 @@ sentry.io
 js.sentry-cdn.com
 s1.sentry-cdn.com
 
+# Split
+# https://answers.ea.com/t5/Information-Guides-and/INFO-GUIDE-Troubleshooting-the-EA-app/m-p/13750060/highlight/true#M20
+sdk.split.io
+
 # Tencent
 mp.weixin.qq.com
 vweixinthumb.tc.qq.com
